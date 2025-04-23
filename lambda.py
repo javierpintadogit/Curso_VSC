@@ -1,2 +1,2 @@
 suma = lambda a,b: a + b
-print(suma(2,4))
+print(suma(3,4))
